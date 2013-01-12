@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinWizards", "WinWizards\WinWizards\WinWizards.csproj", "{16764C8B-96D9-4C35-A651-A49BE4905912}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WinWizardsContent", "WinWizards\WinWizardsContent\WinWizardsContent.contentproj", "{498F57DB-0A30-4E34-82F0-DE9B2221EA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16764C8B-96D9-4C35-A651-A49BE4905912}.Debug|x86.ActiveCfg = Debug|x86
+		{16764C8B-96D9-4C35-A651-A49BE4905912}.Debug|x86.Build.0 = Debug|x86
+		{16764C8B-96D9-4C35-A651-A49BE4905912}.Release|x86.ActiveCfg = Release|x86
+		{16764C8B-96D9-4C35-A651-A49BE4905912}.Release|x86.Build.0 = Release|x86
+		{498F57DB-0A30-4E34-82F0-DE9B2221EA2B}.Debug|x86.ActiveCfg = Debug|x86
+		{498F57DB-0A30-4E34-82F0-DE9B2221EA2B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
